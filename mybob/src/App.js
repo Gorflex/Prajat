@@ -5,8 +5,6 @@ function App() {
   return (
     <div>
       <Penis/>
-      <h1>PIZDETS</h1>
-      <p>LOH</p>
     </div>
   );
 }
