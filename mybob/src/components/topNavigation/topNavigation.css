@@ -1,0 +1,17 @@
+.main {
+    width: 80%;
+    justify-content: center;
+    align-content: center;
+    background-color: brown;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 12px;
+    display: flex;
+}
+
+.container {
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
