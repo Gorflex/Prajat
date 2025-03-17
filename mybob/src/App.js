@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
       <Penis/>
+      <p>Loh</p>
     </div>
   );
 }
