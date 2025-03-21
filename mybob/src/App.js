@@ -1,10 +1,14 @@
 import "./App.css";
-import Penis from "./components/topNavigation/topNavigation";
+import TopBanner from "./components/topNavigation/topNavigation";
+import TextInput from "./components/textInput/textInput";
+import FixedBar from "./components/fixedBar/fixedBar";
 
 function App() {
   return (
     <div>
-      <Penis/>
+      <FixedBar/>
+      <TopBanner/>
+      <TextInput/>
     </div>
   );
 }
